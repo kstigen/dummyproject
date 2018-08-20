@@ -11,7 +11,7 @@
     <tag>dummyproject-1.0</tag>
   </scm>
 
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>dummyproject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
