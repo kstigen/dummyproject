@@ -1,2 +1,2 @@
 # dummyproject
-test
+tester
