@@ -8,10 +8,10 @@
     <connection>scm:git:git@github.com:kstigen/dummyproject.git</connection>
     <url>scm:git:git@github.com:kstigen/dummyproject.git</url>
     <developerConnection>scm:git:git@github.com:kstigen/dummyproject.git</developerConnection>
-    <tag>dummyproject-1.0</tag>
+    <tag>dummyproject-1.1-GDL</tag>
   </scm>
 
-  <version>1.1-GDL-SNAPSHOT</version>
+  <version>1.1-GDL</version>
   <name>dummyproject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
